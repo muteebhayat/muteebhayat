@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muteeb</h1>
-<h3 align="center">A passionate frontend developer from Pakistan hoping to learn and excel more in my field.</h3>
+<h3 align="center">A passionate Full Stack developer from Pakistan hoping to learn and excel more in my field.</h3>
 
 - 🌱 I’m currently learning **MERN**
 
